@@ -15,6 +15,5 @@ public class Main {
         SocketClient b=testB.getSocketClient();
 
         System.out.println("두 객체가 동일 ? "+ a.equals(b));
-
     }
 }
